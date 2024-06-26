@@ -168,7 +168,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
   
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=engrtariqulislam)
 <br/>
-![Profile views](https://gpvc.arturio.dev/engrtariqulislam)
+
 
 
 
