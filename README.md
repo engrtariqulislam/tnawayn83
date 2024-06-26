@@ -3,7 +3,8 @@
 <!-- banner image starts here  -->
 <img src="./images/image1.jpg" width="100%">
 <!-- banner image ends here  -->
-![Profile views](https://komarev.com/ghpvc/?username=engrtariqulislam&color=green)
+Profile views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=engrtariqulislam&label=Profile%20views&color=0e75b6&style=flat" alt="engrtariqulislam" /> </p>
 <h1> 👋 Hello, I'm Tariqul Islam </h1>
 
 A full time content creator on & web developer  
